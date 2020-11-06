@@ -9,5 +9,5 @@ I have focused my course work this semester on strengthening my technical skills
 
 
 # Portfolio
-[Data Visualization 2](<iframe src="https://data.oecd.org/chart/69vH" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/69vH" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2017</a></iframe>)
+[Data Visualization 2] (<iframe src="https://data.oecd.org/chart/69vH" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/69vH" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2017</a></iframe>)
 
