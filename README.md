@@ -8,5 +8,5 @@ My name is Julie Reighard (she/her) and I am a second-year Healthcare Policy and
 I have focused my course work this semester on strengthening my technical skills in analytics. I realized that analytics is only as strong as how it is presented such that the viewer is able to clearly understand it. With that being said, in this course I hope to learn how to engage an audience with visuals that incite both thought-provoking conversation and concision. Overall, I hope to learn a variety of tools that provide better visualization than Microsoft Excel's graph feauture. 
 
 # Portfolio
-[some text here](https://julie-reighard.github.io/dataviz2/)
+Click here to go to my page [visualizing government debt!](https://julie-reighard.github.io/dataviz2/)
 
