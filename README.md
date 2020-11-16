@@ -10,7 +10,7 @@ I have focused my course work this semester on strengthening my technical skills
 # Portfolio
 Links below are my pages:
 
-[visualizing government debt!](https://julie-reighard.github.io/dataviz2/)
+[Visualizing Government Debt](https://julie-reighard.github.io/dataviz2/)
 
 [Critique by Design](https://julie-reighard.github.io/Critque-by-Design/)
 
