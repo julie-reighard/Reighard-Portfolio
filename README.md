@@ -13,6 +13,7 @@ Links below are my pages:
 Assignment 2: [Visualizing Government Debt](https://julie-reighard.github.io/dataviz2/)
 
 Assignment 3 & 4: [Critique by Design](https://julie-reighard.github.io/Critque-by-Design/)
+
 Critqued Visualization:[CDC: Opioid Prescribing Practices](https://www.cdc.gov/drugoverdose/data/prescribing/prescribing-practices.html)
 
 
