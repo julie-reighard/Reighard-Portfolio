@@ -13,4 +13,6 @@ Links below are my pages:
 [Visualizing Government Debt](https://julie-reighard.github.io/dataviz2/)
 
 [Critique by Design](https://julie-reighard.github.io/Critque-by-Design/)
+[Here is the visualization I choose to critque!](https://www.cdc.gov/drugoverdose/data/prescribing/prescribing-practices.html)
+
 
