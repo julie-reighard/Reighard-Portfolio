@@ -1,4 +1,4 @@
-# Julie Reighard -Portfolio
+# Julie Reighard - Portfolio
 This is my public portfolio for the Telling Stories with Data course at CMU!
 
 # About me 
