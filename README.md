@@ -17,6 +17,7 @@ Assignment 3 & 4: [Critique by Design](https://julie-reighard.github.io/Critque-
 Critqued Visualization: [CDC: Opioid Prescribing Practices](https://www.cdc.gov/drugoverdose/data/prescribing/prescribing-practices.html)
 
 Part 1 : [Final Project Page](https://julie-reighard.github.io/Reighard-Portfolio/FinalProjectPage)
+Link to Part 1 on [Shorthand:](https://preview.shorthand.com/ZuowAUinhWPOidDJ)
 
 
 
