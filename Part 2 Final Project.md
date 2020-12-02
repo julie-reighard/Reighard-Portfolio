@@ -1,3 +1,8 @@
+Storyboard/Wireframes
+
+Process:
+From the last iteration of this project, I have decided to change my approach becuase this topic is done frequently, and could
+
 Process:
 From the last iteration of this project, I have decided to change my approach because this topic is done frequently, and it could use more attention. Additionally, because this topic is often overdone, I wanted to narrow my topic from overall alcohol abuse for every age level to the relationship between alcohol and social media. Essentially, what I want to show here is how young adults can appear flawless and nonchalant with alcohol in their pictures when there is a deep-seated issue that is ignored. 
 My basis for this visualization will be based on research articles from the NIH as a data source and a SELF article that inspired this data visualization and more directed call to action. The focus is on those who have developed an alcohol addiction but their presence on social media does not show the downsides of alcohol but the positive images that can be associated with it.
