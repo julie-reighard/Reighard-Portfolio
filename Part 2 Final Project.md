@@ -21,6 +21,7 @@ Here is the [shorthand link](https://carnegiemellon.shorthandstories.com/scroll-
 Interview Process: Due to the timing of the holiday and the due date of this assignment, I asked my closet family members and roommates to critique my current story and visualization. Of those who will be critiquing is one of my fellow Heinz students (who has not taken this course), my brother who is a full time architectural engineer and part-time critic and my father who is a businessman that focuses on the facts and figures. I chose these people because they come from a variety of industries/backgrounds as well as age groups and experience. 
 
 Questions Asked:
+
 •	Who do you think this information is geared towards?
 
 •	How does the story flow?
@@ -55,7 +56,11 @@ Feedback 3:
 
 Changes to be made:
 •	Enabler Section: Strengthen here. More compelling and specific datapoints for the consequences of alcohol at different stages of life (consequences from drinking in college, middle age to long term-chronic conditions)
+
 •	More specific data points that show the gravity of the problem because death is a small number for the 18-24 age groups
-•	Transition of social media to college students to flow smoother. Explain more about the psychology/background that social media can play into habits and choices. 
+
+•	Transition of social media to college students to flow smoother. Explain more about the psychology/background that social media can play into habits and choices.
+
 •	Flow and explain the data more that can allow for smoother transitions for the different age groups. 
+
 •	Mainly work on transiiton/connection between teenagers and college aged/young adults. Replicate/find stories that match the horror stories you hear about when students go to college. 
