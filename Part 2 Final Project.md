@@ -3,16 +3,21 @@ From the last iteration of this project, I have decided to change my approach be
 My basis for this visualization will be based on research articles from the NIH as a data source and a SELF article that inspired this data visualization and more directed call to action. The focus is on those who have developed an alcohol addiction but their presence on social media does not show the downsides of alcohol but the positive images that can be associated with it.
 To guide the story, I will use pictures of people who have alcohol in their photos but the photos could not suggest that the person photograph has an unhealthy relationship with alcohol. My call to action will be to challenge people to question those who may fit this profile and how to offer help whether it is resources or tips/strategies.
 An empowering statistic to lead the story is that: “One in every 12 adults abuse or depend on alcohol, and it's the third ‘leading lifestyle-related cause of death in the nation’”. I plan to use this statistic to show the gravity of alcohol dependence and its role in our lives as young adults. 
+
 Data: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4432862/
+
 https://www.samhsa.gov/data/sites/default/files/reports/rpt29394/NSDUHDetailedTabs2019/NSDUHDetTabsSect6pe2019.htm#tab6-21b
 
 SELF Article: https://www.self.com/story/this-fake-instagram-account-teaches-a-surprising-lesson-about-addiction 
+
 Because I chose to switch gears, here is the new storyboard/arc/wireframe that I have come up with:
 
 
 
 I used  the sketches to guide my creation of the shorthand website with more specific data point to show to the users for feedback. 
+
 Here is the [shorthand link](https://carnegiemellon.shorthandstories.com/scroll-down---/index.html)
+
 Interview Process: Due to the timing of the holiday and the due date of this assignment, I asked my closet family members and roommates to critique my current story and visualization. Of those who will be critiquing is one of my fellow Heinz students (who has not taken this course), my brother who is a full time architectural engineer and part-time critic and my father who is a businessman that focuses on the facts and figures. I chose these people because they come from a variety of industries/backgrounds as well as age groups and experience. 
 
 Questions Asked:
