@@ -21,10 +21,14 @@ Here is the [shorthand link](https://carnegiemellon.shorthandstories.com/scroll-
 Interview Process: Due to the timing of the holiday and the due date of this assignment, I asked my closet family members and roommates to critique my current story and visualization. Of those who will be critiquing is one of my fellow Heinz students (who has not taken this course), my brother who is a full time architectural engineer and part-time critic and my father who is a businessman that focuses on the facts and figures. I chose these people because they come from a variety of industries/backgrounds as well as age groups and experience. 
 
 Questions Asked:
-•	Who do you think this information is geared towards
+•	Who do you think this information is geared towards?
+
 •	How does the story flow?
+
 •	Does the data coincide with the message? Is this clear?
+
 •	Is this visually appealing? What could use improvement?
+
 •	Is the call to action clear and easily identified?
 
 Interview Findings:
