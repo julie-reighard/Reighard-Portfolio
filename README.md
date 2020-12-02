@@ -20,6 +20,7 @@ Part 1 : [Final Project Page](https://julie-reighard.github.io/Reighard-Portfoli
 
 Link to Part 1 on [Shorthand!](https://carnegiemellon.shorthandstories.com/a-legal-addiction/index.html)
 
+Link to Part 2: [Final Project WireFrames/StoryBoards](https://julie-reighard.github.io/Reighard-Portfolio/FinalProjectPage)
 
 
 
