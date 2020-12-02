@@ -12,7 +12,9 @@ SELF Article: https://www.self.com/story/this-fake-instagram-account-teaches-a-s
 
 Because I chose to switch gears, here is the new storyboard/arc/wireframe that I have come up with:
 
+![image](https://user-images.githubusercontent.com/73350057/100823468-41a81900-3422-11eb-84eb-22f371994570.png)
 
+![image](https://user-images.githubusercontent.com/73350057/100823608-82a02d80-3422-11eb-843b-ac288799c864.png)
 
 I used  the sketches to guide my creation of the shorthand website with more specific data point to show to the users for feedback. 
 
