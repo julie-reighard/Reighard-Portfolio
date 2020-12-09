@@ -22,5 +22,5 @@ Link to Part 1 on [Shorthand!](https://carnegiemellon.shorthandstories.com/a-leg
 
 Link to Part 2: [Final Project WireFrames/StoryBoards]( https://julie-reighard.github.io/Part-2/)
 
-
+Final Project [Page!](https://julie-reighard.github.io/Project-Page/)
 
