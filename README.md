@@ -18,7 +18,7 @@ Critqued Visualization: [CDC: Opioid Prescribing Practices](https://www.cdc.gov/
 
 Part 1 : [Final Project Page](https://julie-reighard.github.io/Reighard-Portfolio/FinalProjectPage)
 
-Link to Part 1 on [Shorthand!](https://carnegiemellon.shorthandstories.com/a-legal-addiction/index.html)
+Link to Part 1 on [Shorthand!](https://shorthand.com/organisations/JSrgFWI7zn/teams/ilpUD1hM3R/stories/kBW46MGmBD)
 
 Link to Part 2: [Final Project WireFrames/StoryBoards]( https://julie-reighard.github.io/Part-2/)
 
